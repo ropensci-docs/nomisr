@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "83f7b141375cc5891e3a049c0df4073f52e421f1",
+    "author": "Evan Odell <evanodell91@gmail.com>",
+    "time": "2021-04-04 15:58:38",
+    "files": 35,
+    "merge": false,
+    "message": "Doc updates, better error message\n"
+  },
+  "remote": "https://github.com/ropensci/nomisr",
+  "pkg": "nomisr"
+}

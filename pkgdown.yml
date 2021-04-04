@@ -1,0 +1,11 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  Introduction-to-work-and-health-nomis-indicators: Introduction-to-work-and-health-nomis-indicators.html
+  introduction: introduction.html
+last_built: 2021-07-22T13:43Z
+urls:
+  reference: https://docs.ropensci.org/nomisr/reference
+  article: https://docs.ropensci.org/nomisr/articles
+
