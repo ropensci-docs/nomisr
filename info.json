@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "0215a906a2ef929e8c0fed58393fab07adc98cbb",
+    "author": "Evan Odell <evanodell91@gmail.com>",
+    "time": "2022-06-11 15:13:58",
+    "files": 1,
+    "merge": false,
+    "message": "remove specified minimum version\n"
+  },
+  "repo": "https://github.com/ropensci/nomisr",
+  "pkg": "nomisr"
+}
