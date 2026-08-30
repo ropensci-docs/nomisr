@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "e4e8b66e8e09fab840e8d1d5c9e9a5e999210810",
+    "author": "Maëlle Salmon <maelle.salmon@yahoo.se>",
+    "time": "2024-09-02T09:31:12Z",
+    "files": 1,
+    "merge": false,
+    "message": "docs: fix pkgdown config\n\nFix #17\n"
+  },
+  "repo": "https://github.com/ropensci/nomisr",
+  "pkg": "nomisr",
+  "time": "2026-08-30T07:32:12Z"
+}
